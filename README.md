@@ -41,7 +41,4 @@ Enable real-time transcription using microphone input Add punctuation and capita
 Output:
 Running the transcription script on a harvard.wav file:
 
-
-
-Output
-Running the transcription script on a harvard.wav file:
+![Image](https://github.com/user-attachments/assets/88a9cd1b-d8c2-4940-91f6-4eca4eb09e01)
